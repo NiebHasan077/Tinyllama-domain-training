@@ -1,4 +1,16 @@
 {
+  "test_dataset": {
+    "file_name": "test_dataset.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "all_papers_cleaned_processed": {
+    "file_name": "all_papers_cleaned_processed.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },

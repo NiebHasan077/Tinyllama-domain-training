@@ -107,6 +107,7 @@ def run_exp(args: Optional[dict[str, Any]] = None, callbacks: Optional[list["Tra
         )
         trainer.fit()
     else:
+        print(f"Args: {args}")
         _training_function(config={"args": args, "callbacks": callbacks})
 
 
