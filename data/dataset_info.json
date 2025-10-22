@@ -760,5 +760,11 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+   "research_corpus": {
+  "file_name": "research_corpus.json",
+  "columns": {
+    "prompt": "text"
   }
+}
 }
